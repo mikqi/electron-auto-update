@@ -44,7 +44,8 @@ module.exports = {
           owner: 'mikqi',
           name: 'electron-auto-update'
         },
-        prerelease: true
+        prerelease: false,
+        draft: false
       }
     }
   ]
